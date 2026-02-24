@@ -51,7 +51,7 @@ I started thinking about how our ancestors lived and survived in open environmen
 
 You might be wondering at this point where I was. This is Grindstone. A 100-mile course on the Appalachian trails near Harrisonburg, Northern Virginia. I made my way down a few days prior, all the way from Toronto. I rented a car and drove on without a plan, only a destination in mind. After staring at the road and not eating for nine hours, I realized I was developing a migraine, so I pulled over for the night in a small town called Altoona in Pennsylvania.
 
-I'm fascinated and drawn to free spirits. A few years before Grindstone, I wanted to go camping for the first time but wasn't sure where to start (and couldn't drive). I found a website for a company that promised hassle-free camping. They take care of everything. I only had to bring what I was planning to wear and my pretty face (well, and money). I signed up and showed up to the pickup point: the parking lot of Walmart at Dufferin. There was a single van parked there. Cautiously, I approached and asked the driver if this was the pickup for the camping group. He confirmed, and shared his name, Damian. In the next five minutes, four other campers joined us and we set off.
+I'm fascinated and drawn to free spirits. A few years before Grindstone, I wanted to go camping for the first time but wasn't sure where to start (and couldn't drive). I found a website for a company that promised hassle-free camping. They take care of everything. I only had to bring what I was planning to wear and my pretty face (well, and money). I signed up and showed up to the pickup point: the parking lot of a mall. There was a single van parked there. Cautiously, I approached and asked the driver if this was the pickup for the camping group. He confirmed, and shared his name, Damian. In the next five minutes, four other campers joined us and we set off.
 
 Damian drove us all the way to Algonquin for a four-day camping trip. Along the way, I got to chat with him some more. It turned out that he enjoyed camping so much, he realized he could make a living doing it while sharing it with others, and so this one-man business was born. I could tell Damian had the spirit of adventure that I admire, so over the next few days I got to learn more about him. At some point I asked him what his favourite adventure was. He shared that a few years back, he cycled the entire length of Argentina, through plains, forests, and endless deserts, in four months. That's 5,856 km, mind you. Mostly carrying everything he needed with him, solo.
 
@@ -89,11 +89,11 @@ I started walking at a leisurely pace. For a while, I was pretty sure I was the 
 
 "Are you okay?" the sweeper asked.
 
-"Yes, just not having a good day… or a good night. I've been dealing with food poisoning for a couple of days. I've been trying to keep my insides from spilling out with every step for the past twelve hours, almost to no avail."
+"Yes, just not having a good day… or a good night. I've been dealing with food poisoning for a couple of days. I've been trying to keep my insides from spilling out of both ends with every step for the past twelve hours, almost to no avail."
 
 "Yeah, shit happens," he said, giggling.
 
-Having nothing else to do, I started chatting with him. His name was Harald. He lived in California but was originally from Germany. He was volunteering as the sweeper for this race, and it was going to be a long day and night for him, in total, he'd been assigned almost 70 km to sweep. Admiring his spirit, I asked him about his background with running.
+Having nothing else to do, I started chatting with him. His name was Harald. He lived in California but was originally from Germany. He was volunteering as the sweeper for this race, and it was going to be a long day and night for him, in total, he'd been assigned almost 50 km to sweep. Admiring his spirit, I asked him about his background with running.
 
 "Yeah, I enjoy running a bit," he said. My senses caught on to that. People often say that when they're being humble about what they're capable of.
 
