@@ -1,8 +1,8 @@
 ---
 author: Mehdi Zonjy
 pubDatetime: 2025-12-30T00:22:00Z
-title: "Astroids: Mark, Corrections Officer"
-slug: mark-corrections-officer
+title: "Astroids: Mark"
+slug: mark
 featured: false
 draft: false
 tags:
@@ -11,6 +11,8 @@ tags:
   - astroids
 description: "A chance Uber ride in Ottawa turns into a conversation about art, incarceration, and the things we carry with us."
 ---
+
+_This is part of the [Astroids](/posts/astroids) series._
 
 ![Rabbit Hole - Ottawa 29/12/2025](/blog-images/2025/12/rabbit-hole-ottawa.jpg)
 _Rabbit Hole - Ottawa 29/12/2025_

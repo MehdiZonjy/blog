@@ -12,6 +12,8 @@ tags:
 description: "A 100-mile ultramarathon on the Appalachian trails, food poisoning, stolen hiking poles, a coyote companion, and the strangers who carried me through the night."
 ---
 
+_This is part of the [Astroids](/posts/astroids) series._
+
 ### That Invisible Thread
 
 _Click, clack… Click, clack… Click, clack._ The sound of my hiking poles striking hard rock as I navigated the trail. It was 9 PM, well past sunset. The forest was cool and the leaves danced to a gentle, refreshing breeze. It had been three hours since I set out, and I'd found myself in a state of trance. My arms and feet pushed forward with little effort, and I let my thoughts wander. I couldn't see or hear the other runners, but I could feel someone was hot on my heels. It's an odd feeling. I call it the sixth sense. It happens sometimes when walking down the street. I can tell there is someone behind me, even when I can't see or hear them. As if we could feel the presence of others even when our eyes and ears are closed.
@@ -20,7 +22,7 @@ There is a word in Arabic that describes a much more intense variation of that f
 
 <figure>
   <img src="/blog-images/2026/02/natural-chimney-park.jpeg" alt="Natural Chimney Park, Northern Virginia" style="max-width: 60%;" />
-  <figcaption>Natural Chimney Park, Northern Virginia</figcaption>
+  <figcaption>Natural Chimneys Park, Northern Virginia</figcaption>
 </figure>
 
 ### That Narrow Space
