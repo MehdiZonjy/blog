@@ -18,6 +18,11 @@ _Click, clack… Click, clack… Click, clack._ The sound of my hiking poles str
 
 There is a word in Arabic that describes a much more intense variation of that feeling: "بتونس بيك" (_Btoanas Beek_). It is when you care for someone enough that you feel their physical presence with you, even when they aren't around; and even when they are dead. It's used in romantic contexts, but it could just as well describe how one feels about close friends or siblings. I think about that sometimes on these trails. Maybe that's what the sixth sense really is. Some invisible thread, stranger-to-stranger echo of that same ancient wiring. The body registering a presence that the eyes haven't confirmed yet.
 
+<figure>
+  <img src="/blog-images/2026/02/natural-chimney-park.jpeg" alt="Natural Chimney Park, Northern Virginia" style="max-width: 60%;" />
+  <figcaption>Natural Chimney Park, Northern Virginia</figcaption>
+</figure>
+
 ### That Narrow Space
 
 Suddenly, my ears perked up. From a distance, I could hear music. Faint, but it was there. The third aid station; and just about time. I was dying for a bathroom break. I picked up my pace from a power hike to a gentle run. In a couple of minutes I arrived, quickly grabbed a handful of Oreos, and rushed to the porta potty. After shedding some dead weight for the third time that night, I walked back to the tables, dropped my hiking poles leaning against the edge, turned around to refill my water and grab more Oreos. After a minute, I was all set and ready to take on the next section. I reached for my hiking poles only to grasp at empty space…they were gone.
@@ -156,9 +161,11 @@ I asked why he quit drinking. "My wife gave me an ultimatum. I cared more about 
 
 As we continued, we came across a main road we needed to cross. Just as we got to the other side, a pickup truck drove by. Recognizing it, Scott started shouting and waving his arms. It was his friends. The stars must have been aligning that day. After informing them of his decision, we told them we'd meet them at the 8 AM checkpoint since we needed to inform the volunteers that we were dropping. They drove off. We walked on.
 
-Ten minutes later, my watched beeped. Logging 82km so far, then I realized something.
+Ten minutes later, my watch beeped. Logging 82km so far, then I realized something.
 
 "Hey Scott, do you think we should have gotten in the car with your friends and had them drive us to the aid station instead of us walking these two kilometres back?"
 
-![A soft drink from Kentucky that Scott's friend offered me on the ride back](/blog-images/2025/12/grindstone-soft-drink.jpeg)
-_A soft drink from Kentucky that Scott's friend offered me on the ride back_
+<figure>
+  <img src="/blog-images/2026/02/grindstone-soft-drink.jpeg" alt="A soft drink from Kentucky that Scott's friend offered me on the ride back" style="max-width: 60%;" />
+  <figcaption>A soft drink from Kentucky that Scott's friend offered me on the ride back</figcaption>
+</figure>

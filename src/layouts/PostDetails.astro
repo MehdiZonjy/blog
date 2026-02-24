@@ -126,6 +126,21 @@ const nextPost =
 
     <ShareLinks />
 
+    <!-- Disqus Comments -->
+    <div id="disqus_thread" class="my-8"></div>
+    <script is:inline data-astro-rerun>
+      var disqus_config = function () {
+        this.page.url = window.location.href;
+        this.page.identifier = window.location.pathname;
+      };
+      (function() {
+        var d = document, s = d.createElement('script');
+        s.src = 'https://mzmuse.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+      })();
+    </script>
+
     <hr class="my-6 border-dashed" />
 
     <!-- Previous/Next Post Buttons -->
