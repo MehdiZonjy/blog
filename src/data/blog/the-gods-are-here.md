@@ -18,7 +18,7 @@ _This is part of the [Astroids](/posts/astroids) series._
 >
 > and saddle your spirit
 >
-> run to the mountain spirit
+> run to the mountain
 >
 > be free
 
