@@ -9,7 +9,7 @@ tags:
   - stories
   - muse
   - astroids
-description: "Three ayahuasca ceremonies in Peru, and the gods of Freedom, Trust, and Love that showed up in each one."
+description: "When the gods of Freedom, Trust, and Love descended."
 ---
 
 _This is part of the [Astroids](/posts/astroids) series._
