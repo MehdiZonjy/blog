@@ -9,7 +9,7 @@ tags:
   - stories
   - muse
   - astroids
-description: "When the gods of Freedom, Trust, and Love descended."
+description: "The Gods of Freedom, Fear and Love have descended."
 ---
 
 _This is part of the [Astroids](/posts/astroids) series._
